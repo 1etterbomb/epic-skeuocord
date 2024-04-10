@@ -8,7 +8,7 @@
 }
 
 .theme-light .scroller__3d071, .theme-light .contentRegionScroller__86c79, .theme-light .homeContainer_a4aa0a, .theme-light .repoScroller_9JnAPs, .theme-light .container-3wLKDe, .theme-light .scrollerContainer_bf5dbd, .theme-light .container__7590f, .theme-light .chat__52833.background_cb0a80, .theme-light .container_b181b6, .theme-light .content_d4d412 {
-	background: linear-gradient(to top, transparent 30%, hsla(45, calc(var(--saturation-factor, 1) * 4.8%), 83.5%, 0.54) 100%) !important;
+	background: linear-gradient(to top, transparent 20%, hsla(45, calc(var(--saturation-factor, 1) * 4.8%), 83.5%, 0.54) 100%) !important;
 	background-color: hsla(40, calc(var(--saturation-factor, 1) * 5.7%), 89.6%, 0.54) !important;
 	/*main background - light mode*/
 }
