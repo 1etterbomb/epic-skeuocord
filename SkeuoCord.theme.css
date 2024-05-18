@@ -25,9 +25,7 @@
         [class^="positionContainer_"] {
         height: calc(100vh - 180px);
            }
-        .overlayBackground__345c9 a {
-       color: var(--profile-gradient-primary-color);
-       }
+       
 	.botText_daff56 {    
     font-size: 10px;
     visibility: hidden;
