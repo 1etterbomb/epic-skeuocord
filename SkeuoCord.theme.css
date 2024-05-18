@@ -22,7 +22,4 @@
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
 	--bg-image: url('https://i.imgur.com/Db34Bln.jpeg') center/cover no-repeat !important;
-        [class^="positionContainer_"] {
-        height: calc(100vh - 180px);
-           }
 
