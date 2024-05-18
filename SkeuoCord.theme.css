@@ -25,7 +25,7 @@
 	/*------*/
 	--discord-icon: none; /* discord icon */
 --home-icon: block; /* moon icon */
---home-icon-url: url('https://files.catbox.moe/oi10kw.png?size=240&quality=lossless');
+--home-icon-url: url('https://cdn.discordapp.com/attachments/1168375759413444668/1241393079622176769/2024_05_18_0gy_Kleki.png?size=240&quality=lossless');
 }
 
 [class*=childWrapper] > svg:not([class*=favoriteIcon]){
