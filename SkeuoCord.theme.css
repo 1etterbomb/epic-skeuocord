@@ -25,18 +25,4 @@
         [class^="positionContainer_"] {
         height: calc(100vh - 180px);
            }
-       
-	.botText_daff56 {    
-    font-size: 10px;
-    visibility: hidden;
-    position: relative;
-    
-}
 
-
-.botText_daff56::before { 
-    content: '⊙.☉';
-    visibility: visible;
-    font-size: 10.5px;
-    position: absolute;
-}
