@@ -24,7 +24,7 @@
 	/*DM list background - light mode*/
 }
 .theme-dark .peopleColumn__51df3, .theme-dark .scroller__244e5, .theme-dark .scroller__244e5, .theme-dark .scroller__311cd, .scrollerWrapper-i8p1JZ, .theme-dark .body-2khErn {
-	background: linear-gradient(to top, transparent 25%, hsla(210, calc(var(--saturation-factor, 1) * 7.7%), 5.1%, 0.9) 100%) !important;
+	background: linear-gradient(to top, transparent 25%, hsla(31, calc(var(--saturation-factor, 1) * 7.7%), 5.1%, 0.9) 100%) !important;
 	background-color: hsla(216, calc(var(--saturation-factor, 1) * 5.7%), 17.1%, 0.9) !important;
 	/*DM list background*/
 }
