@@ -64,7 +64,7 @@
 }
 
 .container_b2ce9c, .membersWrap__90226:not(.container_b2ce9c .membersWrap__90226) {
-	background: linear-gradient(270deg, transparent 62%, hsla(220, calc(var(--saturation-factor, 1) * 4.9%), 12.0%, 0.8) 100%) !important;
+	background: linear-gradient(270deg, transparent 62%, hsla(31, calc(var(--saturation-factor, 1) * 4.9%), 12.0%, 0.8) 100%) !important;
 	background-color: hsla(225, calc(var(--saturation-factor, 1) * 8.0%), 19.6%, 0.83) !important;
 	border-left: 1px solid rgb(92,92,92);
 	/*member column BG*/
